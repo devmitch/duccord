@@ -14,9 +14,11 @@ Commands::
   $subscribe - Toggles subscription to daily duck picture DMs
 
 Dependencies:
-    + discord.py
-    + pymongo
-    + requests
+
+- discord.py
+- pymongo
+- requests
+
 
 Build Instructions:
 
